@@ -158,9 +158,9 @@ BOOLEAN
 ```text
 kadea-chat-db/
 │
-├── kadea_chat_db.sql             # Script SQL de création des tables et contraintes
-├── kadea_chat_model.drawio       # Modèle Draw.io (Dictionnaire, MCD et MLD)
-└── README.md                     # Documentation du projet
+├── README.md                     # Documentation du projet
+├── drawio.text                   # Lien pour visualiser le Modèle Draw.io (Dictionnaire, MCD et MLD)
+└── kadea_chat_db.sql             # Script SQL de création des tables et contraintes
 ```
 
 ---
