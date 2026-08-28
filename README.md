@@ -53,5 +53,5 @@ Suivez ces étapes pour installer et initialiser la base de données sur votre e
 ### Étapes d'exécution :
 1. **Cloner le dépôt GitHub :**
    ```bash
-   git clone [https://github.com/votre-compte/kadea-chat-db.git](https://github.com/JoelMitondo/Capstone-Kadea-Chat-Database.git)
+   git clone https://github.com/JoelMitondo/Capstone-Kadea-Chat-Database.git
    cd kadea-chat-db
